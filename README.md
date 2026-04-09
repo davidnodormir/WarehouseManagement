@@ -5,9 +5,9 @@ Project Overview
 
 A fundamental part of this project was understanding the needs of the business owner, who has no IT background, and translating them into a functional digital tool. For this reason, I built an initial version to gather feedback.
 
-    First Version: Due to some unclear initial requirements, I created a simple table to track general stock information. This helped significantly in clarifying all the required fields needed to identify a product and its availability.
+->First Version: Due to some unclear initial requirements, I created a simple table to track general stock information. This helped significantly in clarifying all the required fields needed to identify a product and its availability.
 
-    Second Version: After clarifying the requirements, I built the second version with the goal of creating a tool that could manage all warehouse stock operations in the simplest way possible.
+->Second Version: After clarifying the requirements, I built the second version with the goal of creating a tool that could manage all warehouse stock operations in the simplest way possible.
 
 # User Experience & Workflow
 
