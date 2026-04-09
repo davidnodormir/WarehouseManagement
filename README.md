@@ -24,4 +24,4 @@ This final sheet is the core of the tool. It provides a real-time report of all 
 
 I kept the interface as intuitive as possible and was able to train the employees in less than an hour, successfully achieving the project's main objective.
 
-# Requirements: Microsoft Office 365
+Requirements: Microsoft Office 365
